@@ -69,7 +69,7 @@ Allí veremos que tiene la IP fija que asignamos anterirormente y demás configu
 
 Para hacer la prueba hacemos un ping a 8.8.8.8 y vemos que funciona.
 
-![imgMaquina](https://github.com/HugoCea/ProyactoDHCP/blob/master/imagenes/imgmaquina.png)
+![imgMaquina](https://github.com/HugoCea/ProyectoDHCP/blob/master/imagenes/imgmaquina.png)
 
 
 
